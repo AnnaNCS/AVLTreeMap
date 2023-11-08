@@ -1,5 +1,5 @@
-A project in Java: An AVLTree Implementation 
+Data Structures Java project: An AVLTree Implementation 
 
-To run the method:
+Clone the repository and run the method with the following command:
     
     java AVLTreeMap
