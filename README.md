@@ -1,4 +1,4 @@
-Data Structures Java project: An AVLTree Implementation 
+Data Structures Java project, Fall 2019: An AVLTree Implementation 
 
 Clone the repository and run the method with the following command:
     
